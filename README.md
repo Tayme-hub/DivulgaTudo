@@ -19,3 +19,4 @@ Sendo elas : Listar : lista todos os anuncios contendo informacoes como o valor 
              Listar por cliente: sera requisitado ao usuario o nome do cliente que servira como filtro, qualquer anuncio pertencente a esse cliente sera exibido.
              Voltar: volta para o menu.
 
+obs: tem um espaco apos a / dos comando para compilacao, pois quando tiro o asterisco nao desaparece. Por favor retire o espaco se for copiar e colar o codigo.
