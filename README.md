@@ -1,7 +1,7 @@
 # DivulgaTudo
 Solucao Desafio de Programação  Academia Capgemini
 
-para compilar o programa, baixe a pasta divulga tudo, abra o cmd, va ate a pasta src (digite cd, e arraste a pasta src ate o prompt) e digite: javac view/asterisco.java dao/asterisco.java
+para compilar o programa, baixe a pasta divulga tudo, abra o cmd, va ate a pasta src (digite cd, e arraste a pasta src ate o prompt) e digite: javac view/asterisco.java dao/*asterisco.java
 Para executar digite java view/Menu.java
 
 Foi utilizado banco de dados, o construtor da tabela do sql esta na pasta.
